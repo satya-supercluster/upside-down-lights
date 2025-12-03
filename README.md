@@ -8,7 +8,7 @@ A Stranger Things-inspired message wall with glowing bulbs.
 
 ```bash
 git clone https://github.com/satya-supercluster/upside-down-lights.git
-cd byers-lights
+cd upside-down-lights
 ```
 
 2. **Install dependencies:**
